@@ -37,6 +37,7 @@ Open any of the notebooks in Colab and follow the instructions to mount your Goo
 
 Most of the original code structure and training setup were adapted from the following:
 - From [Abu Bakr Soliman](https://colab.research.google.com/drive/1tf6pjAwz2ZJdv1IcP6YcIrLFa4iW6svT?usp=sharing#scrollTo=xOpAbHLSioBz) as demonstrated in [LLMs Fine-Tuning](https://www.youtube.com/watch?v=S9VHQhC3HPc&t=109s&ab_channel=AbuBakrSoliman)
+- From Adam Lucek as demonstrated in [Quantizing LLMs](https://www.youtube.com/watch?v=3EDI4akymhA&ab_channel=AdamLucek)
 - [Unsloth](https://github.com/unslothai/unsloth) [Llama 3.1 8B Notebook](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-Alpaca.ipynb)
 - [vLLM](https://github.com/vllm-project/vllm)
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/tree/main)
