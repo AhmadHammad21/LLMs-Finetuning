@@ -24,9 +24,17 @@ This project demonstrates how to fine-tune [Qwen/Qwen2.5-1.5B-Instruct](https://
 ## Requirements
 
 - Python 3.10+
-- Colab with GPU (T4/A100 recommended)
+- Colab with GPU (A100 recommended), this was done on NVIDIA A100 40GB  
+  ![NVIDIA A100](images\training.png)
 - `transformers`, `unsloth`, `peft`, `datasets`, `trl`, `vllm`
 
+---
+
+## Images
+- Training 
+  ![Training](images\train.png)
+- Testing 
+  ![Testing](images\eval.png)
 ## Usage
 
 Open any of the notebooks in Colab and follow the instructions to mount your Google Drive, set up your dataset, and begin training.
